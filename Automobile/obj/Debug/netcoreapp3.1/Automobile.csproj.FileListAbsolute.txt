@@ -1,0 +1,14 @@
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.exe
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.deps.json
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.json
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.runtimeconfig.dev.json
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\bin\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.AssemblyReference.cache
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfoInputs.cache
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.AssemblyInfo.cs
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.dll
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.pdb
+C:\Users\OBPRemote9\source\repos\Automobile\Automobile\obj\Debug\netcoreapp3.1\Automobile.genruntimeconfig.cache
